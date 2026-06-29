@@ -1,0 +1,21 @@
+{
+    "dataname": "GF5",
+    "path": "/data/yuanyeliu",
+    "hsi_path":"/data/yuanyeliu/GF5/reg_msi.npy",
+    "msi_path":"/data/yuanyeliu/GF5/reg_pan.npy",
+    "R_path":"/data/yuanyeliu/GF5/R.npy",
+    "C_path":"/data/yuanyeliu/GF5/C.npy",
+    "factor": 2,
+    "patchsize": 64,
+    "stride":32,
+    "modelname": "RASD_FuNet",
+    "lr": 2e-4,
+    "epoch": 500,
+    "batch_size": 4,
+    "test__freq": 20,
+    "clip_grad": 0
+}
+
+
+
+

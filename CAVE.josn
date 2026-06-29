@@ -1,0 +1,14 @@
+{
+    "dataname": "CAVE",
+    "path": "/data/yuanyeliu",
+    "cache_path": "/data/yuanyeliu/caches/fusion_cave_8_factor",
+    "factor": 8,
+    "patchsize": 64,
+    "stride": 32,
+    "modelname": "RASD_FuNet",
+    "lr": 4e-4,
+    "epoch": 2000,
+    "batch_size": 16,
+    "test__freq": 20,
+    "clip_grad": 0
+}
